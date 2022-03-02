@@ -2,7 +2,7 @@
 #include<conio.h>
 #include<stdlib.h>
 #include<math.h>
-
+// ERICK ANDRES MAMANI
 using namespace std;
 int mn_raiz_cubica(
 'real A',
